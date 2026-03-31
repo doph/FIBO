@@ -87,3 +87,8 @@ $RECYCLE.BIN/
 # Logs
 *.log
 logs/
+
+# Debug output
+debug_output/
+debug_*.py
+debug_*.png
